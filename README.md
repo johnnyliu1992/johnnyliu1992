@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on Django projects.
 - 👀 Most of my serious projects are private repo, so let me know if you are intersted:
 - CGPE : https://cgpe.soic.iupui.edu
+- ADE : https://adexplorer.medicine.iu.edu
 - 📫 johliu@iu.edu
 
 <!---
