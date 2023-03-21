@@ -4,7 +4,7 @@
 - 👀 Most of my serious projects are private repo, so let me know if you are intersted:
 - CGPE : https://cgpe.soic.iupui.edu
 - ADE : https://adexplorer.medicine.iu.edu
-- 📫 johliu@iu.edu
+- 📫 johnnyliuself@gmail.com
 
 <!---
 johnnyliu1992/johnnyliu1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
